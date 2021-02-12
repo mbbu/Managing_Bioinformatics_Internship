@@ -48,6 +48,7 @@ In this incubation program, we will follow a curriculum that identifies students
     -  [BASH-Intro-2018](https://big-sa.github.io/BASH-Intro-2018/)
     -  [The unix shell](http://swcarpentry.github.io/shell-novice/)
     -  [Intro to linux](https://github.com/BioinfoNet/Introduction_To_Linux)
+    -  [Guide for beginners](https://linuxconfig.org/bash-scripting-tutorial-for-beginners)
 - Python
     - [Python4Bioinformatics2019](https://github.com/kipkurui/Python4Bioinformatics2019)
     - [Programming with Python](https://swcarpentry.github.io/python-novice-inflammation/)
